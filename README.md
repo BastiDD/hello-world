@@ -46,6 +46,6 @@ function fancyAlert(arg) {
 ### task lists
 
 - [x] go shopping :heart_eyes:
-- [] incomplete item
+- [ ] incomplete item
 
 
